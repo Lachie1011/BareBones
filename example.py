@@ -1,4 +1,4 @@
-# An example script that utilises the yoloV5 Lite
+# An example script that utilises the parameters classes and BareBones
 
 # Importing libraries
 from parameters import Parameters
